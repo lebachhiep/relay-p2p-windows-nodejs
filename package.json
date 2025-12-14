@@ -1,0 +1,9 @@
+{
+  "name": "relay-leaf-node",
+  "version": "0.1.0",
+  "main": "index.js",
+  "gypfile": true,
+  "dependencies": {
+    "node-addon-api": "^8.5.0"
+  }
+}
